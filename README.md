@@ -1,2 +1,4 @@
 # Customer-Clustering-Project
-A short project on clustering for customer segmentation using a variety of clustering methods
+
+### Description:
+A short project on clustering for customer segmentation using k-means clustering and agglomerative clustering.
